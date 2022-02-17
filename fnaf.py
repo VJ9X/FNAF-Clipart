@@ -69,7 +69,6 @@ font = pygame.freetype.SysFont("Times New Roman", 0)
 Freddy = pygame.image.load("BearPapa.png")
 Freddy2 = pygame.image.load("BearBaby.png")
 Freddy3 = pygame.image.load("BearMama.png")
-stage = pygame.image.load("Gymnasium.jpg")
 
 #not Sir Fredrick Fitzgerald Fazbear III
 Chica = pygame.image.load("Chick.png")
